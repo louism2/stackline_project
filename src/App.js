@@ -1,10 +1,12 @@
 import './App.css';
 import Header from './components/Header.tsx'
+import ProductWrapper from './components/ProductWrapper.tsx'
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <Header />
+      <ProductWrapper />
     </div>
   );
 }

@@ -1,4 +1,4 @@
-[
+export const data = [
     {
       "id": "B007TIE0GQ",
       "title": "Shark Ninja",

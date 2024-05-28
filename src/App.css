@@ -14,3 +14,19 @@
   height: 2em;
   margin-left: .5em;
 }
+
+#product-wrapper {
+  display: flex
+}
+
+#product-sidebar {
+  flex-basis: 15%;
+}
+
+#product-main {
+  flex-basis: 82%;
+}
+
+#product-main table {
+  width: 100%;
+}
